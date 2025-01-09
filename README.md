@@ -21,7 +21,7 @@ Idea generation for a deep ultraviolet LASER lithography system compiled into a 
 
 ### Compliant Mechanism Designs and Their Relevance to DUV Laser Diode Lithography Systems
 
-| **Compliant Mechanism Design** | **Relevant Component in DUV Laser Lithography** | **Benefits** |
+| **Compliant Mechanism Design** | **Relevant Component in DUV Laser Lithography** | **Advantages** |
 |--------------------------------|-------------------------------------------------|--------------|
 | **Flexural Hinges**            | Beam steering mechanisms                        | Enables precise angular adjustments without traditional bearings, reducing friction and wear.    |
 | **Monolithic Structures**      | Optical stage supports                          | Eliminates assembly errors, improves alignment precision, and minimizes thermal expansion issues. |
