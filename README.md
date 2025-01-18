@@ -74,3 +74,6 @@ Idea generation for a deep ultraviolet LASER lithography system compiled into a 
 | | **Hirayama, H. & Okada, K.** (2022). *Wide-Bandgap Materials for Deep-UV Emitters*. **Nature Materials**, 21(4), 389-396. | Reviews progress in wide-bandgap semiconductor materials (e.g., AlGaN) for direct UV/DUV lasers. |
 | **Hybrid Fiber Laser + OPO/OPA Pumped by QD Laser** | **Zervas, M. & Li, J.** (2020). *Quantum Dot-Pumped Optical Parametric Oscillators for UV Applications*. **Optics Letters**, 45(9), 2154-2159. | Investigates the potential of QD lasers to act as tunable pump sources for OPOs, enabling broad wavelength coverage into the UV/DUV range. |
 | | **Piskarskas, A. & Smirnov, I.** (2023). *High-Power OPA Systems for Short-Wavelength Applications*. **Laser Physics Letters**, 20(5), 065201. | Details high-power OPA systems and their performance when pumped by short-pulse QD or fiber lasers. |
+
+
+![Relevant Background Formulas_](https://github.com/user-attachments/assets/135d3daf-76ef-451b-a370-115cb2c8c6f3)
