@@ -61,6 +61,15 @@ The resolution limit for a 1.35 NA immersion tool operating at 193 nm wavelength
 
 ______
 
+![Transistor-Count-over-time](https://github.com/user-attachments/assets/88197399-012c-46fe-80b1-77a9ff722b06)
+
+Borrowed from:
+Ritchie et al., *Moore's Law: the number of transistors on microchips has doubled every two years*, Our World in Data (2024)
+
+[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+______
+
 
 | **Section** | **Key Points** | **Implications for DUV Laser Diodes & Lithography** |
 |-------------|----------------|-----------------------------------------------------|
