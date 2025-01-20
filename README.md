@@ -66,7 +66,7 @@ ______
 Borrowed from:
 Ritchie et al., *Moore's Law: the number of transistors on microchips has doubled every two years*, Our World in Data (2024)
 
-[https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+[https://ourworldindata.org/moores-law](https://ourworldindata.org/moores-law) [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ______
 
