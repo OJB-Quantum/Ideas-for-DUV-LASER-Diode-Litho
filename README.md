@@ -1,6 +1,67 @@
 # Ideas-for-DUV-LASER-Diode-Litho
 Idea generation for a deep ultraviolet LASER lithography system compiled into a repository by Onri Jay Benally.
 
+## Deep Ultraviolet Lithography vs. Diode LASER Lithography
+
+## Introduction
+Lithography is a crucial process in semiconductor manufacturing, used to pattern intricate circuits on silicon wafers. Two popular lithography techniques are Deep Ultraviolet (DUV) lithography and Diode LASER lithography. Below are their capabilities and differences.
+
+## Deep Ultraviolet (DUV) Lithography
+
+### Capabilities
+- **Wavelength:** Utilizes deep ultraviolet light with wavelengths typically in the range of 193 nm (ArF excimer laser) to 248 nm (KrF excimer laser).
+- **Resolution:** Capable of achieving high resolution down to 7 nm processes.
+- **Throughput:** High throughput, suitable for mass production of integrated circuits.
+- **Applications:** Widely used in the semiconductor industry for fabricating microprocessors, memory chips, and other complex ICs.
+
+### Advantages
+- **High Resolution:** Allows for the creation of very small features due to the short wavelength of DUV light.
+- **Mature Technology:** Well-established with extensive industry adoption and support.
+- **Scalability:** Suitable for large-scale manufacturing.
+
+### Disadvantages
+- **Cost:** High capital and operational costs due to the complexity of the equipment and processes.
+- **Complexity:** Requires multiple processing steps and precise control to achieve desired patterns.
+
+## Diode LASER Lithography
+
+### Capabilities
+- **Wavelength:** Uses diode LASERs with wavelengths typically in the range of 400 nm to 450 nm.
+- **Resolution:** Generally lower resolution compared to DUV lithography, typically suitable for feature sizes down to 1 micron.
+- **Throughput:** Lower throughput, often suitable for prototyping, small-scale production, or applications requiring less precision.
+- **Applications:** Used in applications like printed circuit boards (PCBs), micro-electro-mechanical systems (MEMS), and other areas where high precision is not as critical.
+
+### Advantages
+- **Cost-Effective:** Lower capital and operational costs compared to DUV lithography.
+- **Flexibility:** Easier to set up and use, making it suitable for small-scale production and research environments.
+- **Simplicity:** Less complex equipment and processes.
+
+### Disadvantages
+- **Lower Resolution:** Not suitable for the latest high-density semiconductor devices.
+- **Limited Throughput:** Slower processing speeds, making it less suitable for high-volume manufacturing.
+
+## Comparison Table
+
+| Feature               | DUV Lithography                    | Diode LASER Lithography          |
+|-----------------------|------------------------------------|----------------------------------|
+| **Wavelength**        | 193 nm - 248 nm                    | 400 nm - 450 nm                  |
+| **Resolution**        | Down to 7 nm                       | Down to 1 micron                 |
+| **Throughput**        | High                               | Lower                            |
+| **Cost**              | High                               | Lower                            |
+| **Complexity**        | High                               | Lower                            |
+| **Applications**      | Semiconductor ICs                  | PCBs, MEMS, small-scale production|
+| **Scalability**       | Suitable for large-scale production| Suitable for prototyping and small-scale production |
+
+_______________________________
+
+### Key terms to know: 
+
+ASML ArF (193 nm) tool, DUV, critical dimension, High NA, immersion lithography, double patterning or multiple patterning.
+The resolution limit for a 1.35 NA immersion tool operating at 193 nm wavelength is 36 nm. Going beyond this limit to sub-20nm nodes requires multiple patterning.
+
+______
+
+
 | **Section** | **Key Points** | **Implications for DUV Laser Diodes & Lithography** |
 |-------------|----------------|-----------------------------------------------------|
 | **Current DUV Lithography**                                      | - Dominated by **excimer lasers** (ArF at 193 nm, KrF at 248 nm).<br>- Excimer lasers provide **high power** and **short wavelengths**.<br>- They offer **proven reliability** for high-volume manufacturing.                                                                                                                                                                                               | - Diode-based lasers have not yet replaced excimer lasers because of **lower power** and **reliability** issues at DUV wavelengths.<br>- Any future DUV diode solution must match or exceed these industry benchmarks in power, stability, and lifetime.                                                                                  |
