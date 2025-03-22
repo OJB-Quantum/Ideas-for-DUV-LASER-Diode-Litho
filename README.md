@@ -29,7 +29,7 @@ Lithography is a crucial process in semiconductor manufacturing, used to pattern
 - **Wavelength:** Uses diode LASERs with wavelengths typically in the range of 400 nm to 450 nm.
 - **Resolution:** Generally lower resolution compared to DUV lithography, typically suitable for feature sizes down to 1 micron.
 - **Throughput:** Lower throughput, often suitable for prototyping, small-scale production, or applications requiring less precision.
-- **Applications:** Used in applications like printed circuit boards (PCBs), micro-electro-mechanical systems (MEMS), and other areas where high precision is not as critical.
+- **Applications:** Used in applications like printed circuit boards (PCBs), micro-electro-mechanical systems (MEMS), photomask development for microscale patterning, and other areas where very high precision is not as critical.
 
 ### Advantages
 - **Cost-Effective:** Lower capital and operational costs compared to DUV lithography.
