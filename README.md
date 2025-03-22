@@ -145,5 +145,6 @@ ______
 | **Hybrid Fiber Laser + OPO/OPA Pumped by QD Laser** | **Zervas, M. & Li, J.** (2020). *Quantum Dot-Pumped Optical Parametric Oscillators for UV Applications*. **Optics Letters**, 45(9), 2154-2159. | Investigates the potential of QD lasers to act as tunable pump sources for OPOs, enabling broad wavelength coverage into the UV/DUV range. |
 | | **Piskarskas, A. & Smirnov, I.** (2023). *High-Power OPA Systems for Short-Wavelength Applications*. **Laser Physics Letters**, 20(5), 065201. | Details high-power OPA systems and their performance when pumped by short-pulse QD or fiber lasers. |
 
-![Relevant Background Formulas_](https://github.com/user-attachments/assets/16510982-632d-4a9b-bb50-d20cd9af5125)
+### Relevant Analytical Formulas
 
+![404778555-16510982-632d-4a9b-bb50-d20cd9af5125](https://github.com/user-attachments/assets/fed9a766-729b-4168-b06f-f1737a714cd9)
