@@ -11,6 +11,11 @@ Idea generation for a deep ultraviolet LASER lithography system compiled into a 
 
 ---
 
+<img width="2954" height="1974" alt="image" src="https://github.com/user-attachments/assets/a9ad6c40-6d8f-444d-b4ad-ad527e6cb6d9" />
+
+
+---
+
 ## Deep Ultraviolet Lithography vs. Diode LASER Lithography
 
 ## Introduction
