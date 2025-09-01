@@ -40,7 +40,7 @@ Lithography is a crucial process in semiconductor manufacturing, used to pattern
 
 ### Capabilities
 - **Wavelength:** Employs diode lasers with wavelengths in the near-UV and visible spectrum, typically ranging from **355 nm to 450 nm**.
-- **Resolution:** Resolution is significantly lower than DUV. It typically ranges from **several microns (µm) down to a few hundred nanometers (~200 nm)** on high-end direct-write systems.
+- **Resolution:** Resolution is significantly lower than DUV. It typically ranges from **several microns (µm) down to a few hundred nanometers (~200 nm)** on high-end direct-write systems. Interestingly, with advancements in direct LASER diode technology, high-end direct-write systems are approaching near-DUV territory and will likely reach DUV capabilities in the next decade (2030s).
 - **Throughput:** Lower throughput compared to DUV. It's often used in "maskless" or "direct-write" configurations, where the pattern is written directly onto the wafer, which is slower than mask-based projection lithography.
 - **Applications:** Commonly used for patterning printed circuit boards (PCBs), micro-electro-mechanical systems (MEMS), photonics, and in research and development. It's also used for producing photomasks that will later be used in less critical lithography systems.
 
