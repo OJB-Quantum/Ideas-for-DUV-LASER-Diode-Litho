@@ -36,7 +36,7 @@ Lithography is a crucial process in semiconductor manufacturing, used to pattern
 
 ***
 
-## Diode LASER Lithography 💡
+## Diode LASER Lithography
 
 ### Capabilities
 - **Wavelength:** Employs diode lasers with wavelengths in the near-UV and visible spectrum, typically ranging from **355 nm to 450 nm**.
