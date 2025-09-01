@@ -19,6 +19,21 @@ Idea generation for a deep ultraviolet LASER lithography system compiled into a 
 
 ---
 
+```
+Nodes
+├─ 16/14 nm → 193i multi-patterning (LELE, SADP) → DUV → MMP 52–64 nm
+├─ 10 nm    → 193i multi-patterning (SAQP + LELE) → DUV → MMP 36–44 nm
+├─ 7 nm     → Branch:
+│   ├─ N7 (2018) → DUV multi-patterning only → DUV → MMP ≈ 40 nm
+│   └─ N7+ (2019) → Mix: EUV (0.33 NA) + DUV MP → EUV+DUV → MMP ≈ 40 nm
+├─ 5 nm     → Many EUV (0.33 NA) layers + some MP → EUV → MMP ≈ 30 nm
+├─ 4 nm     → N5-class refinement, EUV 0.33 NA → EUV → MMP ≈ 28–30 nm
+├─ 3 nm     → EUV 0.33 NA + MP → EUV → MMP ≈ 23 nm
+└─ 2 nm     → EUV 0.33 NA initially; High-NA 0.55 emerging (Intel 14A) → EUV → MMP TBD
+```
+
+---
+
 ## Deep Ultraviolet Lithography vs. Diode LASER Lithography
 
 ## Introduction
