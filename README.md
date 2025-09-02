@@ -3,19 +3,19 @@ Idea generation for a deep ultraviolet LASER lithography system compiled into a 
 
 ---
 
-<img width="2008" height="1350" alt="image" src="https://github.com/user-attachments/assets/493cf83b-fe4e-4f2a-86e5-f7830d380e6e" />
+<img width="2008" height="auto" alt="image" src="https://github.com/user-attachments/assets/493cf83b-fe4e-4f2a-86e5-f7830d380e6e" />
 
 ---
 
-<img width="2725" height="1975" alt="image" src="https://github.com/user-attachments/assets/dc3de2fd-03fe-4ef5-ab10-f2abbfddfb46" />
+<img width="2725" height="auto" alt="image" src="https://github.com/user-attachments/assets/dc3de2fd-03fe-4ef5-ab10-f2abbfddfb46" />
 
 ---
 
-<img width="2954" height="1974" alt="image" src="https://github.com/user-attachments/assets/a9ad6c40-6d8f-444d-b4ad-ad527e6cb6d9" />
+<img width="2954" height="auto" alt="image" src="https://github.com/user-attachments/assets/a9ad6c40-6d8f-444d-b4ad-ad527e6cb6d9" />
 
 ---
 
-<img width="2974" height="1974" alt="image" src="https://github.com/user-attachments/assets/c5dd963c-8830-4853-8fdd-cd06e41c1d23" />
+<img width="2974" height="auto" alt="image" src="https://github.com/user-attachments/assets/c5dd963c-8830-4853-8fdd-cd06e41c1d23" />
 
 ---
 
