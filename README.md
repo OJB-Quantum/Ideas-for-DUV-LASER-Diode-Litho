@@ -3,7 +3,7 @@ Idea generation for a deep ultraviolet LASER lithography system compiled into a 
 
 ---
 
-<img width="2008" height="1350" alt="image" src="https://github.com/user-attachments/assets/493cf83b-fe4e-4f2a-86e5-f7830d380e6e" />
+<img width="2008" height="auto" alt="image" src="https://github.com/user-attachments/assets/493cf83b-fe4e-4f2a-86e5-f7830d380e6e" />
 
 ---
 
