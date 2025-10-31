@@ -88,14 +88,72 @@ Lithography is a crucial process in semiconductor manufacturing, used to pattern
 | **Applications** | High-volume manufacturing of advanced semiconductor ICs | PCBs, MEMS, prototyping, and small-scale production |
 | **Scalability** | Ideal for large-scale production | Suitable for prototyping and small-scale production |
 
-_______________________________
+---
 
 ### Key terms to know: 
 
 ASML ArF (193 nm) tool, DUV, critical dimension, High NA, immersion lithography, double patterning or multiple patterning.
 The resolution limit for a 1.35 NA immersion tool operating at 193 nm wavelength is 36 nm. Going beyond this limit to sub-20nm nodes requires multiple patterning.
 
-______
+---
+
+High Resolution Lithography Overview in the U.S.
+
+```
+U.S. Lithography (EUV & DUV)
+├─ EUV by State (counts ≈ estimates)
+│  ├─ Arizona
+│  │  ├─ Intel (Chandler): ~1 EUV installed (NXE:38xx), room for +2
+│  │  └─ TSMC (Phoenix): multiple EUV for N4/N3 production
+│  ├─ Texas
+│  │  ├─ Samsung (Taylor): EUV planned; none installed yet
+│  │  └─ Existing fabs (Austin, TI analog): DUV only
+│  ├─ New York
+│  │  ├─ Albany NanoTech (NY CREATES/NSTC): 1 standard‑NA EUV now
+│  │  └─ High‑NA EUV Center: ASML EXE:5200 arriving (~2026) → then 2 total
+│  ├─ Oregon
+│  │  ├─ Intel D1X (Hillsboro): 2 High‑NA EUV (EXE:5000) in R&D
+│  │  └─ +~2 standard‑NA EUV (NXE) for Intel 7/5 development
+│  └─ California
+│     ├─ No HVM EUV fabs
+│     └─ LBNL: EUV Micro‑Exposure Tool (MET, 0.3 NA) for research
+│
+├─ Key Centers & Facilities
+│  ├─ High‑NA EUV Lithography Center (Albany, NY)
+│  │  ├─ Public R&D hub; standard EUV active
+│  │  └─ High‑NA EUV (EXE:5200) funded, in‑flight
+│  ├─ MIT Lincoln Laboratory (Lexington, MA)
+│  │  ├─ No EUV scanner on site
+│  │  └─ Strong DUV (i‑line/248/193 nm), e‑beam; prototypes & partnerships
+│  └─ National Labs (selected)
+│     ├─ LBNL (Berkeley): EUV MET (research), optics/resist work
+│     ├─ LLNL, Sandia (historical EUV R&D): no current EUV scanners
+│     └─ NIST (Gaithersburg) & DoD labs: EUV metrology/DUV/e‑beam emphasis
+│
+├─ DUV Coverage in the U.S.
+│  ├─ Industrial states using DUV: ~15–20 (e.g., AZ, CA, TX, NM, NY, OR, ID, VA, MA, VT, CO, ME, FL…)
+│  ├─ With academia & gov labs included: >20 states host DUV capability
+│  └─ Typical fab tool mix: dozens of DUV scanners + few EUV for critical layers
+│
+├─ Technology & Vendors
+│  ├─ Scanners: ASML NXE (0.33 NA), ASML EXE (0.55 NA / High‑NA)
+│  ├─ Sources: Cymer (ASML) high‑power EUV LPP; support ecosystem largely U.S.‑based
+│  ├─ Materials: EUV resists, pellicles, mask blanks, stochastic mitigation
+│  └─ Metrology: actinic mask inspection, CD/SWR/LSW, stochastic defectivity
+│
+├─ Trajectory (2025→2028)
+│  ├─ Albany High‑NA ramps; Intel Oregon expands High‑NA learning
+│  ├─ Texas EUV stands up when Samsung Taylor schedules converge
+│  └─ Potential new EUV sites align to new leading‑edge logic/memory fabs
+│
+└─ Language & Concepts (portmanteaus/etymology, quick notes)
+   ├─ “Lithography” ← Greek: líthos (stone) + gráphō (to write)
+   ├─ “Photolithography” = photo + lithography (compound, not a portmanteau)
+   ├─ “SEMATECH” = SEmiconductor MAnufacturing TECHnology (acronym)
+   └─ “High‑NA” = higher numerical aperture; smaller half‑pitch at fixed λ
+```
+
+---
 
 ![Transistor-Count-over-time](https://github.com/user-attachments/assets/88197399-012c-46fe-80b1-77a9ff722b06)
 
@@ -104,8 +162,7 @@ Ritchie et al., *Moore's Law: the number of transistors on microchips has double
 
 [https://ourworldindata.org/moores-law](https://ourworldindata.org/moores-law) [https://creativecommons.org/licenses/by-nc-nd/4.0/](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
-______
-
+---
 
 | **Section** | **Key Points** | **Implications for DUV Laser Diodes & Lithography** |
 |-------------|----------------|-----------------------------------------------------|
